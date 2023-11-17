@@ -1,0 +1,11 @@
+Ad Server Override 1.xlsx shape and/or columns do not match.
+Ad Server Override 2.xlsx shape and/or columns do not match.
+Ad Server Override 3.xlsx shape and/or columns do not match.
+Ad Server Override 4 (duplicates).xlsx shape and/or columns do not match.
+Ad Server Override 4 (duplicates).xlsx has duplicate rows.
+Ad Server Override 5 (wrong headers).xlsx shape and/or columns do not match.
+Ad Server Override 6 (dtype and row spacing and random print).xlsx shape and/or columns do not match.
+Ad Server Override 6 (dtype and row spacing and random print).xlsx has blank rows.
+Ad Server Override 6 (dtype and row spacing and random print).xlsx There are blank cells in one of the dimension columns
+Ad Server Override 6 (dtype and row spacing and random print).xlsx has duplicate rows.
+Ad Server Override 7.xlsx shape and/or columns do not match.

@@ -1,0 +1,8 @@
+10.2.23 BMW_Site Served Data Template.xlsx shape and/or columns do not match.
+Ad Server Override WITH UNIQUE REACH - 1.1.23 - 10.1.23.xlsx shape and/or columns do not match.
+Ad Server Override WITH UNIQUE REACH - 1.1.23 - 10.1.23.xlsx has duplicate rows.
+BMW MAX Ad Server Override - 7.5 - 10.1.xlsx shape and/or columns do not match.
+BMW MAX Ad Server Override - 7.5 - 10.1.xlsx has duplicate rows.
+BMW_Site Served Data Template_10.2.xlsx shape and/or columns do not match.
+BMW_Site Served Data Template_10.2.xlsx has duplicate rows.
+CarGurus Ad Server Override 7.5 - 10.1_YTD.xlsx shape and/or columns do not match.
