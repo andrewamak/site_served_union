@@ -1,6 +1,7 @@
 # site_served_union
 
 Issue: Agencies have many vendors they work with, and will somes need to Excel flat files (site served data) to be added into our database. However there are many and they are hard to QA and cumbersome to upload.
+
 Fix: Python script takes all the site served files in a folder, unions them and provides a quick QA on them. 
 
 How it works: 
